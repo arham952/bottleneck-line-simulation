@@ -121,7 +121,7 @@ bottleneck-line-simulation/
 ## How to run
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/bottleneck-line-simulation.git
+git clone https://github.com/arham952/bottleneck-line-simulation.git
 cd bottleneck-line-simulation
 python -m venv .venv
 source .venv/bin/activate        # Windows: .venv\Scripts\activate
