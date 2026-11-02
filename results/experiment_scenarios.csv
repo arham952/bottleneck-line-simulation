@@ -1,0 +1,6 @@
+scenario,throughput,ci,change_vs_baseline_%
+Baseline,35.499,0.107,0.0
+Speed up Station 1 (not bottleneck),35.537,0.152,0.106
+Speed up Station 3 (bottleneck) by 10%,38.16,0.124,7.495
+Less variability (same averages),37.435,0.086,5.454
+No variability (same averages),37.481,0.0,5.584

@@ -1,0 +1,7 @@
+numpy>=1.24
+pandas>=2.0
+matplotlib>=3.7
+scipy>=1.10
+simpy>=4.0
+# only needed to run the notebook
+jupyter>=1.0
